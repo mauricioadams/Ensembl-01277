@@ -48,7 +48,6 @@ class HGVSSearch extends Component {
     }
 
     validateHGVS() {
-        //once valid block typing TODO while search
         let type = null,
             variation = null,
             var1 = null,
